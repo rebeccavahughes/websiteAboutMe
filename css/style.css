@@ -1,16 +1,12 @@
 * {
    box-sizing: border-box; 
-}
+  
+} 
 
 
-header{
+/* header{
 
-    height: 500px;
-    margin: 0px;
-    border: 0px;
-    padding: 0px;
-    
-}
+} */
 
 body{
     /* font-size: 100vh; */
@@ -18,10 +14,12 @@ body{
     background-image: radial-gradient(silver, dimgrey, black)
     
 }
+
+
 h1{
     text-align: center;
     color: darkgray;
-    font-size: 50px;
+    font-size: 5vh;
 
 }
 h3{
@@ -35,7 +33,7 @@ h3{
     margin-right: auto;
     border-radius: 30px;
     height: 400px;
-    padding-bottom: 0px;
+    padding-bottom: 15px;
     margin-bottom: 0px;
 
 }
@@ -47,6 +45,7 @@ ol, li{
 }
 p{
     padding-bottom: 1.5%;
+    font-size: 15px;
 }
 
 #favouriteFoods{
